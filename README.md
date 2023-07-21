@@ -9,7 +9,7 @@ Key Features:
 
 Real-time Resource Monitoring: The program continuously tracks CPU, memory, and disk usage, displaying the data in real time using dynamic bars, allowing users to monitor resource utilization at a glance.
 
-Warnings for High Usage: The monitor checks for resource usage above specific thresholds (90% for CPU and disk, 97% for memory) and displays warnings when the thresholds are exceeded.
+Warnings for High Usage: The monitor checks for resource usage above specific thresholds (90% for CPU and disk, 95% for memory) and displays warnings when the thresholds are exceeded.
 
 Skills Gained:
 
